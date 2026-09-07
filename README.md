@@ -67,3 +67,4 @@ Key features of the Power BI dashboard:
 ## 📎 Conclusion
 This project demonstrates an end-to-end data analytics workflow, combining Python, SQL, and Power BI to generate meaningful business insights from raw data.
 
+<img width="500" height="268" alt="Screenshot 2026-09-07 163954" src="https://github.com/user-attachments/assets/79b9bf7f-73c6-4057-87b0-df7c336f785b" />
